@@ -1,0 +1,4 @@
+# ninja log v5
+0	457	1613051504972973842	CMakeFiles/firstDemo.dir/src/main.cpp.o	1dba0e0326beab5a
+1	559	1613051505076974078	CMakeFiles/firstDemo.dir/src/display.cpp.o	81d535d39bc21900
+559	917	1613051505428974876	firstDemo	3df3a9e64730dfd3

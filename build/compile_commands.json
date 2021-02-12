@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/amit/Desktop/C++_Learning/DemoOne/build",
+  "command": "/home/amit/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/amit/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/amit/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I../src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIE -o CMakeFiles/firstDemo.dir/src/main.cpp.o -c /home/amit/Desktop/C++_Learning/DemoOne/src/main.cpp",
+  "file": "/home/amit/Desktop/C++_Learning/DemoOne/src/main.cpp"
+},
+{
+  "directory": "/home/amit/Desktop/C++_Learning/DemoOne/build",
+  "command": "/home/amit/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/amit/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/amit/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I../src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIE -o CMakeFiles/firstDemo.dir/src/display.cpp.o -c /home/amit/Desktop/C++_Learning/DemoOne/src/display.cpp",
+  "file": "/home/amit/Desktop/C++_Learning/DemoOne/src/display.cpp"
+}
+]
